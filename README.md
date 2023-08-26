@@ -10,5 +10,5 @@ contains 3 header and a main file
 
 my second project is a complicated game with java call yinyang roll
 contains 2 .java file 
-# mainpan
-# squre
+#mainpan
+#squre
